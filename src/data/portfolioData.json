@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "coverImage": "/shdb.png",
+        "coverAlt": "Sherlock Holmes database",
+        "links": {
+            "website": {
+                "href": "https://portfolio.sammymak.ca/dynamic_site/#/splash/",
+                "imgSrc": "/link.svg"
+            }
+        },
+        "description": "Sherlock database is a dynamic TV show site pulling data and images using services written in PHP from a MYSQL database.",
+        "languages": ["HTML", "CSS", "JS", "PHP", "MYSQL", "Jquery", "Foundation", "SammyJS"]
+    },
+    {
+        "id": 2,
+        "coverImage": "/microbit.png",
+        "coverAlt": "Ending scene on the moon",
+        "links": {
+            "github": {
+                "href": "https://github.com/Swatche",
+                "gitSrc": "/github.svg"
+            },
+            "website": {
+                "href": "https://portfolio.sammymak.ca/microbit/assets/demo.mp4",
+                "imgSrc": "/link.svg"
+            }
+        },
+        "description": "To The Moon! Is an interactive ad banner for a vacation destination using SVGs and GSAP3. It uses a micro:bit controller to allow the user to interact with the scenes.",
+        "languages": ["HTML", "CSS", "JS", "GSAP"]
+    },
+    {
+        "id": 3,
+        "coverImage": "/21doodle.png",
+        "coverAlt": "A game of 21doodle",
+        "links": {
+            "github": {
+                "href": "https://github.com/Swatche",
+                "gitSrc": "/github.svg"
+            },
+            "website": {
+                "href": "https://portfolio.sammymak.ca/21doodle/",
+                "imgSrc": "/link.svg"
+            }
+        },
+        "description": "21Doodle follows the objectives of the classic game of BlackJack. Players can draw cards and play against the computer. It also uses local storage to remember and retrieve lifetime wins.",
+        "languages": ["HTML", "CSS", "JS"]
+    },
+    {
+        "id": 4,
+        "coverImage": "/matchgame.png",
+        "coverAlt": "Match Game ad compaign",
+        "links": {
+            "website": {
+                "href": "https://moredolla.mfelobes.ca/",
+                "imgSrc": "/link.svg"
+            }
+        },
+        "description": "BuyMore Dollars is looking for a digital memory game in a mobile experience to entice users aged 16-20 to sign up for a biweekly coupon mailing.",
+        "languages": ["React", "CSS", "JS", "Firebase", "Regex", "Figma"]
+    },
+    {
+        "id": 5,
+        "coverImage": "/sgi.png",
+        "coverAlt": "Southern Gulf Island Food Hub Homepage",
+        "links": {
+            "github": {
+                "href": "https://github.com/Swatche",
+                "gitSrc": "/github.svg"
+            },
+            "website": {
+                "href": "https://sgifoodhub.ca/",
+                "imgSrc": "/link.svg"
+            }
+        },
+        "description": "SGI Food Hub is a website redesign project for a client based in Mayne Island, BC. The new site showcases the partnerships with other food banks and food programs nearby. It was created for non developers to easily update content",
+        "languages": ["HTML", "CSS", "WordPress", "PHP"]
+    },
+    {
+        "id": 6,
+        "coverImage": "/easyeats.png",
+        "coverAlt": "EasyEats grocery homepage",
+        "links": {
+            "github": {
+                "href": "https://github.com/Swatche",
+                "gitSrc": "/github.svg"
+            },
+            "website": {
+                "href": "https://portfolio.sammymak.ca/easy_eats/#/home/",
+                "imgSrc": "/link.svg"
+            }
+        },
+        "description": "EasyEats is a grocery CRUD application. Using OOP through PHP services, it queries the MySQL database to supply the content. The front end is created with CSSgrid and flexbox to ensure responsive design.",
+        "languages": ["HTML", "CSS", "JS", "PHP", "MYSQL", "Jquery", "SammyJS"]
+    },
+    {
+        "id": 7,
+        "coverImage": "/musicalmuse.png",
+        "coverAlt": "MusicalMuse Homepage",
+        "links": {
+            "github": {
+                "href": "https://github.com/Swatche",
+                "gitSrc": "/github.svg"
+            },
+            "website": {
+                "href": "http://musicalmuse.sammymak.ca/",
+                "imgSrc": "/link.svg"
+            }
+        },
+        "description": "MusicalMuse is a WordPress site for a private music studio with WooCommerce handling the services offered. It uses a custom full site editor theme with custom made plugins for block styles.",
+        "languages": ["HTML", "CSS", "WordPress", "PHP"]
+    }
+]
